@@ -2,11 +2,13 @@
   font-family:Poppins, sans-serif;
   }
 
-.table{ display:block;
-  float:left;
-  width:100%;
-  margin-top:20px;
-  }
+table {
+    display: inline-block;
+    float: none;
+    width: auto;
+    margin: 20px auto;
+    text-align: center;
+}
 
   thead{background-color:#ccc;}
 
